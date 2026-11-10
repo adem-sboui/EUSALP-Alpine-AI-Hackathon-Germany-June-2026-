@@ -10,8 +10,7 @@ snippets are demonstrations, not real predictions or legal guidance.**
 Ski-lift operators across the Alps share anonymized risk data and adaptation
 strategies, with AI helping across languages and regions.
 
-## My contribution
-[WRITE ONE TRUE SENTENCE HERE]
+
 
 ## What this prototype implements
 Simplified versions of the pitch ideas, built afterwards by me with AI
