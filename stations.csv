@@ -1,0 +1,11 @@
+station,region,country,altitude_m,snow_trend_days_per_decade,energy_cost_index,closure_days_last_season,diversification,outcome
+Alpe Nord,Piemonte,IT,1600,-9,70,14,summer hiking trails,positive
+Monte Sole,Veneto,IT,1400,-12,75,22,mountain biking park,positive
+Hirschberg,Allgäu,DE,1200,-14,80,25,summer toboggan run,positive
+Falkenlift,Allgäu,DE,1700,-7,60,9,none yet,none
+Col Blanc,Savoie,FR,2100,-4,55,6,SMS alert system for guests,positive
+Tête Haute,Savoie,FR,1500,-10,72,18,wellness and spa offer,neutral
+Gletscherbahn,Tirol,AT,2400,-2,50,3,none yet,none
+Almwiese,Tirol,AT,1300,-13,78,24,hiking and e-bike rental,positive
+Vallée Claire,Valais,CH,1900,-5,65,8,via ferrata and summer events,positive
+Kranjska Vrh,Gorenjska,SI,1100,-15,68,27,mountain biking and trail running,neutral
